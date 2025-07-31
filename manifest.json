@@ -1,0 +1,26 @@
+{
+  "item": {
+    "name": "MIPhone Go",
+    "description": "一个跳越来躲避障碍物的游戏",
+    "preview": [
+      "preview.png",
+      "preview1.png",
+      "preview2.png",
+      "preview3.png"
+    ],
+    "icon": "icon.png",
+    "source_url": "",
+    "author": [
+      {
+        "name": "wanggantian",
+        "author_url": "https://afdian.com/a/wanggantian"
+      }
+    ]
+  },
+  "downloads": {
+    "n67": {
+      "version": "1.1.0",
+      "file_name": "com.wanggantian.MIPhonego.release.1.1.0.rpk"
+    }
+  }
+}
